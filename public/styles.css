@@ -1,0 +1,42 @@
+
+/* HTML elements */
+body {
+background-color: #BAD1C2;
+font-family: Lato;
+}
+
+hr {
+    margin: 3% 30% 3% 30%;
+    border-style: dotted;
+    border-width: 0 0 2px 0;
+    color: #D3756B;
+}
+/* Custom classes */ 
+.title_heading, .warning_text {
+    text-align: center;
+}
+
+.bling{
+    color: #227C70;
+}
+.hector_img1 {
+    display: block; /* This allows us to center the image with auto margins */
+    border-radius: 5%;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#title1 {
+    padding: 2% 7% 2% 7%;
+    margin-bottom: 3%;
+    font-size: 3.5rem;
+    font-weight:bold;
+}
+
+.about-div {
+    margin: 5% 7% 5% 7% ;
+    padding: 10%;
+    margin-left: 5%;
+    
+}
